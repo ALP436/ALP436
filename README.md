@@ -9,7 +9,7 @@ Ma motivation : concevoir des programmes qui améliorent l’expérience des uti
 📧 **Mail :** [antoine.leprovost@gmail.com](mailto:antoine.leprovost@gmail.com)  
 📞 **Téléphone :** 06 52 70 48 40  
 🌍 **Langues :** Anglais B1, Espagnol A2  
-🔗 [Mon profil LinkedIn](#) *(à compléter)*  
+🔗 [Mon profil LinkedIn](https://www.linkedin.com/in/antoine-le-provost/) 
 
 ---
 
